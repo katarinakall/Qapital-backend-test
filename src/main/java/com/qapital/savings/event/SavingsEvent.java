@@ -147,7 +147,8 @@ public class SavingsEvent {
 	}
 
 	public enum EventName {
-		manual, started, stopped, rule_application, ifttt_transfer, joined, withdrawal, internal_transfer, cancellation, incentive_payout, interest
+		manual, started, stopped, rule_application, ifttt_transfer, joined, withdrawal, internal_transfer, cancellation,
+		incentive_payout, interest
 	}
 	
 }
